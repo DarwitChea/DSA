@@ -1,0 +1,1 @@
+   quickSort(arr, 0, 7);
