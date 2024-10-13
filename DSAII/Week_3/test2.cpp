@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// Graph class using an adjacency list representation
 class Graph
 {
 private:

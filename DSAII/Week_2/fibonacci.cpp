@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+int n;
+
 void FibNum(n)
 {
     int n;

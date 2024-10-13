@@ -6,8 +6,8 @@ using namespace std;
 class Graph
 {
 private:
-    int V;
-    vector<vector<int>> adjList;
+    int V;                       // Number of vertices
+    vector<vector<int>> adjList; // Adjacency list
 
 public:
     Graph(int vertices)
